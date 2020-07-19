@@ -19,7 +19,7 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/charlo
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/charlottekoh1998/run_analysis/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/charlottekoh1998/run_analysis.git)
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/charlottekoh1998/run_analysis/blob/master/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link]( "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/charlottekoh1998/run_analysis/blob/master/README.md "README.md")
 
 ## Contributors
 
